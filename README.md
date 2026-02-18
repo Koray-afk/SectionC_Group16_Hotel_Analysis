@@ -355,6 +355,7 @@ Pivot tables were created in Google Sheets to support dashboard visualizations:
 |:---------|:-----|
 | 📊 **Google Sheets (Dashboard & Analysis)** | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1T2-b7pPUSR_gzLlc0m8FSg4cD2tSnOf1yDRmFHSPRmY/edit?gid=606106777#gid=606106777) |
 | 🎤 **Presentation (PPT)** | [Open on Canva](https://www.canva.com/design/DAHBpNGcLOg/KK5TQIQfG-BmHF79dhPVLw/edit) |
+| 📝 **Project Report (PDF)** | [View Report](https://docs.google.com/document/d/1LJPU7dgTpB8TEAFe7MwC6MpVELNfVWUPZQKxKzFXHmQ/edit?tab=t.0#heading=h.cif1juj8epn1) |
 
 </div>
 
